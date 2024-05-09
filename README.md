@@ -2,6 +2,7 @@ Hi 👋,  I’m Dhruv Dobhal
 I am a data professional with a proven track record in Reporting and Analytics, adept in Power BI, SQL, and Python, currently seeking internships and contractual part-time positions.
 
 •	📫 Feel free to reach me at dhruvdobhal97@gmail.com
+
 •	⚡ Fun fact: I am a Tech Enthusiast
 
 Feel free to connect with me on LinkedIn:
