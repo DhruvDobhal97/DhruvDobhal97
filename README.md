@@ -10,6 +10,7 @@ Feel free to connect with me on LinkedIn:
 https://www.linkedin.com/in/dhruv-dobhal/
 
 The tools I have been using during my Career journey:
+
 SQL, POWER BI, PYTHON
 
 <!---
