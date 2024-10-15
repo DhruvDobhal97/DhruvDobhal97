@@ -10,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-dob
 
 The tools I have been using during my Career journey:
 
-SQL, POWER BI, PYTHON
+SQL, POWER BI, PYTHON, AWS, AZURE, GCP
 
 <!---
 DhruvDobhal97/DhruvDobhal97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
